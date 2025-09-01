@@ -1,0 +1,18 @@
+
+# BandHub Project Files
+
+To download the complete BandHub source code:
+
+1. Copy all files from the project directory
+2. Or clone from GitHub repository
+3. Follow the setup instructions in LOCAL-SETUP.md
+
+Files included:
+- Complete Next.js application
+- Custom orange/black/white/silver theme
+- All marching band management features
+- Setup scripts for Windows and Mac/Linux
+- Comprehensive documentation
+
+Visit: https://bandhub.lindy.site for live demo
+    
